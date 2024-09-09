@@ -2,7 +2,7 @@
 
 A web application showcasing the inner workings of sorting algorithms. I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. 
 
-You can directly acsess it here ->  
+You can directly acsess it here ->  https://sorting-visualizer-project01.netlify.app/
 
 Implemented algorithms:
 1) Bubble sort
